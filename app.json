@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "mfarm",
+    "slug": "mfarm",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "mfarm"
+}
